@@ -64,7 +64,7 @@ AmbitionBox Company Listing
 
 ```text
 .
-├── DAY 18.ipynb
+├── SCRAPING.ipynb
 ├── indian_companies_dataset.csv
 ├── README.md
 └── .gitignore
